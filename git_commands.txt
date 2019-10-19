@@ -1,0 +1,7 @@
+git checkout -f <branch name> Menuvanje na branch
+git branch <branch name> (feature/ ; bug/) Kreiranje na branch
+git status - promeni
+Za push na promeni
+git add . - Dodava se
+git commit -m "message_here" - komentar
+git push
