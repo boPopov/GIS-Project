@@ -1,0 +1,9 @@
+git add . - Додавање на промените
+git commit -m "message" - Додавање на коментар
+git push - Додавање на промените на гит
+
+git branch <branch name> - Креирање на нова бранча
+git checkout -f <branch name> - Промена на бранча
+git branch -D <branch name> - Бришење на бранча
+
+git status - Статус на промени од оригиналната бранча
