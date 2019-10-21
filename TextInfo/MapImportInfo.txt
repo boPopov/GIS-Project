@@ -1,0 +1,10 @@
+Importiranje na mapata vo ArcMaps 10.5
+
+Vo folderot maps se postaveni 2 mapi od Makedonija, seuste ne uspeav da najdam mapa od podelbite na opstinite.
+
+Mapite se importiraat na nacin sto se klika kopceto "Add data". Postavena e slika vo folderot Images.
+
+Po klikanje na kopceto "Add Data" potrebno e da se klikne kopceto "Connect to Folder" pri sto se otvara File Systemot od kade moze da se izbere soodvetna lokacija na folder vo koj se smesteni mapite.
+Potrebno e da se selektira folderot a od tamu moze da se selektira mapa koja se dodava vo Table of Contents.
+
+Po zavrsuvanje na celiot proces se pojavuvaat soodvetni podatoci.
